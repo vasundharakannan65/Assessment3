@@ -1,0 +1,17 @@
+C:\Users\vasundharask\source\repos\Shopify.WebAPI\Shopify.BL\bin\Debug\net5.0\Shopify.BL.deps.json
+C:\Users\vasundharask\source\repos\Shopify.WebAPI\Shopify.BL\bin\Debug\net5.0\Shopify.BL.dll
+C:\Users\vasundharask\source\repos\Shopify.WebAPI\Shopify.BL\bin\Debug\net5.0\ref\Shopify.BL.dll
+C:\Users\vasundharask\source\repos\Shopify.WebAPI\Shopify.BL\bin\Debug\net5.0\Shopify.BL.pdb
+C:\Users\vasundharask\source\repos\Shopify.WebAPI\Shopify.BL\obj\Debug\net5.0\Shopify.BL.csproj.AssemblyReference.cache
+C:\Users\vasundharask\source\repos\Shopify.WebAPI\Shopify.BL\obj\Debug\net5.0\Shopify.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasundharask\source\repos\Shopify.WebAPI\Shopify.BL\obj\Debug\net5.0\Shopify.BL.AssemblyInfoInputs.cache
+C:\Users\vasundharask\source\repos\Shopify.WebAPI\Shopify.BL\obj\Debug\net5.0\Shopify.BL.AssemblyInfo.cs
+C:\Users\vasundharask\source\repos\Shopify.WebAPI\Shopify.BL\obj\Debug\net5.0\Shopify.BL.csproj.CoreCompileInputs.cache
+C:\Users\vasundharask\source\repos\Shopify.WebAPI\Shopify.BL\obj\Debug\net5.0\Shopify.BL.dll
+C:\Users\vasundharask\source\repos\Shopify.WebAPI\Shopify.BL\obj\Debug\net5.0\ref\Shopify.BL.dll
+C:\Users\vasundharask\source\repos\Shopify.WebAPI\Shopify.BL\obj\Debug\net5.0\Shopify.BL.pdb
+C:\Users\vasundharask\source\repos\Shopify.WebAPI\Shopify.BL\bin\Debug\net5.0\Shopify.DA.dll
+C:\Users\vasundharask\source\repos\Shopify.WebAPI\Shopify.BL\bin\Debug\net5.0\Shopify.DA.pdb
+C:\Users\vasundharask\source\repos\Shopify.WebAPI\Shopify.BL\obj\Debug\net5.0\Shopify.BL.csproj.CopyComplete
+C:\Users\vasundharask\source\repos\Shopify.WebAPI\Shopify.BL\bin\Debug\net5.0\CustomIdentity.dll
+C:\Users\vasundharask\source\repos\Shopify.WebAPI\Shopify.BL\bin\Debug\net5.0\CustomIdentity.pdb

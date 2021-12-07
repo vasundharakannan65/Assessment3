@@ -1,0 +1,12 @@
+C:\Users\vasundharask\source\repos\Shopify.WebAPI\CustomIdentity\obj\Debug\net5.0\CustomIdentity.csproj.AssemblyReference.cache
+C:\Users\vasundharask\source\repos\Shopify.WebAPI\CustomIdentity\obj\Debug\net5.0\CustomIdentity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasundharask\source\repos\Shopify.WebAPI\CustomIdentity\obj\Debug\net5.0\CustomIdentity.AssemblyInfoInputs.cache
+C:\Users\vasundharask\source\repos\Shopify.WebAPI\CustomIdentity\obj\Debug\net5.0\CustomIdentity.AssemblyInfo.cs
+C:\Users\vasundharask\source\repos\Shopify.WebAPI\CustomIdentity\obj\Debug\net5.0\CustomIdentity.csproj.CoreCompileInputs.cache
+C:\Users\vasundharask\source\repos\Shopify.WebAPI\CustomIdentity\bin\Debug\net5.0\CustomIdentity.deps.json
+C:\Users\vasundharask\source\repos\Shopify.WebAPI\CustomIdentity\bin\Debug\net5.0\CustomIdentity.dll
+C:\Users\vasundharask\source\repos\Shopify.WebAPI\CustomIdentity\bin\Debug\net5.0\ref\CustomIdentity.dll
+C:\Users\vasundharask\source\repos\Shopify.WebAPI\CustomIdentity\bin\Debug\net5.0\CustomIdentity.pdb
+C:\Users\vasundharask\source\repos\Shopify.WebAPI\CustomIdentity\obj\Debug\net5.0\CustomIdentity.dll
+C:\Users\vasundharask\source\repos\Shopify.WebAPI\CustomIdentity\obj\Debug\net5.0\ref\CustomIdentity.dll
+C:\Users\vasundharask\source\repos\Shopify.WebAPI\CustomIdentity\obj\Debug\net5.0\CustomIdentity.pdb
