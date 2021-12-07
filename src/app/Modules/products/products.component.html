@@ -1,0 +1,20 @@
+<app-header></app-header>
+
+<mat-toolbar fxLayout="row">
+    <mat-toolbar-row fxLayoutAlign="end center">
+        <button type="button" mat-raised-button [routerLink]="['/products/add']" [hidden]="!IsVisible">
+            <mat-icon>add</mat-icon>
+            <span class="logo"> Add</span>
+          </button>        
+          <button type="button" mat-raised-button [routerLink]="['/products/list']" [hidden]="IsVisible">
+            <mat-icon>list</mat-icon>
+            <span class="logo"> View</span>
+          </button>        
+    </mat-toolbar-row>
+</mat-toolbar>
+
+<router-outlet></router-outlet>
+
+<app-footer></app-footer>
+
+

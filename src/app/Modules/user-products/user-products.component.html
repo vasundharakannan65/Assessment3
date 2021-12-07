@@ -1,0 +1,43 @@
+<app-header></app-header>
+
+<mat-toolbar fxLayout="row">
+    <mat-toolbar-row fxLayoutAlign="end center">
+        <form class="example-form">
+            <mat-form-field class="example-full-width" appearance="fill">
+              <mat-label>Search by Category:</mat-label>
+              <input matInput="search" value="Sushi">
+            </mat-form-field>
+          </form>       
+    </mat-toolbar-row>
+</mat-toolbar>
+
+<div fxLayout="row wrap" fxLayoutGap="8px grid">
+    <div fxFlex="25%" fxFlex.xs="100%" fxFlex.sm="33%" *ngFor="let p of products">
+        <mat-card class="example-card mat-elevation-z4">
+            <mat-card-header>
+              <mat-card-title>{{ p.name }}</mat-card-title>
+            </mat-card-header>
+            <img src="./../../../assets/Images/png-transparent-t-shirt-sleeve-polo-shirt-clothing-shirt-tshirt-black-top.png" 
+            alt="No Image" mat-card-image style="width: 150px;height: 170px;" />
+            <mat-card-content>
+              <p>
+                Description: {{ p.description }}
+              </p>
+              <p>
+                Price: {{ p.price | currency }}
+              </p>
+              <p>
+                Discount: {{ p.discount | percent}}
+              </p>
+            </mat-card-content>
+        
+            <mat-card-actions>
+              <button mat-raised-button color="accent">Add to cart</button>
+              <button mat-raised-button color="primary">View</button>
+            </mat-card-actions>
+          </mat-card>
+    </div>
+</div>
+
+  
+<app-footer></app-footer>
